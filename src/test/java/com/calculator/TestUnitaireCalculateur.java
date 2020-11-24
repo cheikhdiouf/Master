@@ -13,16 +13,16 @@ public class TestUnitaireCalculateur {
 	public void testmaxElement() {
 		int[] list = new int[] { 7, 8, 9 };
 		calculateur calculateur = new calculateur();
-		int beggest = calculateur.maxElement(list);
-		assertEquals(9, beggest);
+		int biggest = calculateur.maxElement(list);
+		assertEquals(9, biggest);
 	}
 
 	@Test
 	public void testminElement() {
 		int[] list = new int[] { 6, 8, 9 };
 		calculateur calculateur = new calculateur();
-		int beggest = calculateur.minElement(list);
-		assertEquals(6, beggest);
+		int biggest = calculateur.minElement(list);
+		assertEquals(6, biggest);
 	}
 
 	@Test
