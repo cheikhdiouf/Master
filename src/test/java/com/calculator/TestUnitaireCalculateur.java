@@ -11,10 +11,10 @@ public class TestUnitaireCalculateur {
 // test qui return la plus grand nombre de la liste
 	@Test
 	public void testmaxElement() {
-		int[] list = new int[] { 7, 8, 9 };
+		int[] list = new int[] { 7, 8, 19 };
 		calculateur calculateur = new calculateur();
 		int beggest = calculateur.maxElement(list);
-		assertEquals(9, beggest);
+		assertEquals(19, beggest);
 	}
 
 	@Test
