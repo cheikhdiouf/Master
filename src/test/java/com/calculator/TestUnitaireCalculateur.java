@@ -28,8 +28,8 @@ public class TestUnitaireCalculateur {
 	@Test
 	public void testSum() {
 		int x = 12;
-		int y = 3;
-		assertEquals(15, calculateur.Sum(x, y));
+		int y = 51;
+		assertEquals(63, calculateur.Sum(x, y));
 	}
 
 	@Test
