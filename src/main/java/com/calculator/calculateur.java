@@ -40,10 +40,10 @@ public class calculateur {
 	}
 
 	public int minElement(int[] list) {
-		int index = Integer.MIN_VALUE;
+		int index = 0;
 		int min = 0;
 		for (index = 0; index < list.length; index++) {
-			if (list[index] > min) {
+			if (list[index] < min) {
 				min = list[index];
 			}
 
