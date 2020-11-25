@@ -21,8 +21,8 @@ public class TestUnitaireCalculateur {
 	public void testminElement() {
 		int[] list = new int[] { 6, 8, 9 };
 		calculateur calculateur = new calculateur();
-		int beggest = calculateur.minElement(list);
-		assertEquals(6, beggest);
+		int biggest = calculateur.minElement(list);
+		assertEquals(6, biggest);
 	}
 
 	@Test
