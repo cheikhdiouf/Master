@@ -19,10 +19,10 @@ public class TestUnitaireCalculateur {
 
 	@Test
 	public void testminElement() {
-		int[] list = new int[] { 6, 8, 9 };
+		int[] list = new int[] { -6, -8, -9 };
 		calculateur calculateur = new calculateur();
 		int biggest = calculateur.minElement(list);
-		assertEquals(6, biggest);
+		assertEquals(-9, biggest);
 	}
 
 	@Test

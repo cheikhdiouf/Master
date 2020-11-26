@@ -43,7 +43,7 @@ public class calculateur {
 		int index = Integer.MIN_VALUE;
 		int min = 0;
 		for (index = 0; index < list.length; index++) {
-			if (list[index] > min) {
+			if (list[index] < min) {
 				min = list[index];
 			}
 
