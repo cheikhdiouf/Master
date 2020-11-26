@@ -13,13 +13,8 @@ public class TestUnitaireCalculateur {
 	public void testmaxElement() {
 		int[] list = new int[] { 7, 8, 19 };
 		calculateur calculateur = new calculateur();
-<<<<<<< HEAD
 		int biggest = calculateur.maxElement(list);
-		assertEquals(9, biggest);
-=======
-		int beggest = calculateur.maxElement(list);
-		assertEquals(19, beggest);
->>>>>>> mamedieye
+		assertEquals(19, biggest);
 	}
 
 	@Test
