@@ -1,6 +1,4 @@
-#cahier de  change du projet genie logiciel
-
-# 1. Créer un projet java standard avec Maven  Le programme comportera une classe Calculator avec 6 méthodes :
+#cahier de  change du projet genie logiciel # 1. Créer un projet java standard avec Maven  Le programme comportera une classe Calculator avec 6 méthodes :
            #• public int sum(int a, int b)
            #• public int minus(int a, int b)
            #• public int divide(int a, int b)
