@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="13db2d5d-4591-4351-be14-26b26e20b2f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/test/java/com/calculator/TestUnitaireCalculateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/calculator/TestUnitaireCalculateur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/Com.Dakar/Master/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/Com.Dakar/Master/pom.properties" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> 67dd8a321326031cbf468e004f87b5a64ec0a2c2
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +24,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\cheik\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -92,25 +96,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1606321156937" />
-    <state width="1286" height="245" key="GridCell.Tab.0.bottom" timestamp="1606350687123">
+    <state width="1323" height="113" key="GridCell.Tab.0.bottom" timestamp="1606408922613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="245" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606350687123" />
-    <state width="1286" height="245" key="GridCell.Tab.0.center" timestamp="1606350687123">
+    <state width="1323" height="113" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606408922613" />
+    <state width="1323" height="113" key="GridCell.Tab.0.center" timestamp="1606408922612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="245" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606350687123" />
-    <state width="1286" height="245" key="GridCell.Tab.0.left" timestamp="1606350687123">
+    <state width="1323" height="113" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606408922612" />
+    <state width="1323" height="113" key="GridCell.Tab.0.left" timestamp="1606408922611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="245" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606350687123" />
-    <state width="1286" height="245" key="GridCell.Tab.0.right" timestamp="1606350687123">
+    <state width="1323" height="113" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606408922611" />
+    <state width="1323" height="113" key="GridCell.Tab.0.right" timestamp="1606408922613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+<<<<<<< HEAD
     <state width="1286" height="245" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606350687123" />
     <state x="65" y="25" key="new project wizard" timestamp="1606415962095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1606415962095" />
+=======
+    <state width="1323" height="113" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606408922613" />
+    <state x="65" y="0" key="new project wizard" timestamp="1606408823703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1606408823703" />
+>>>>>>> 67dd8a321326031cbf468e004f87b5a64ec0a2c2
   </component>
 </project>

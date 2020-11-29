@@ -29,7 +29,7 @@ public class calculateur {
 
 	public int maxElement(int[] list) {
 		int index;
-		int max = 0;
+		int max =0;
 		for (index = 0; index < list.length; index++) {
 			if (list[index] > max) {
 				max = list[index];
