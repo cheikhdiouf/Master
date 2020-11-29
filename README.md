@@ -1,10 +1,11 @@
-#cahier de  change du projet genie logiciel
- # 1. Créer un projet java standard avec Maven  Le programme comportera une classe Calculator avec 6 méthodes :
+#cahier de  charge du projet genie logiciel
+ # 1. Créer un projet java standard avec Maven  Le programme comportera une classe Calculator avec 8 méthodes :
            #• public int sum(int a, int b)
            #• public int minus(int a, int b)
            #• public int divide(int a, int b)
            #• public int multiply(int a, int b)
            #• public int min(int a, int b)
+           #• public int max(int a, int b)
            #• public int minElement(int[] list) : retourne le plus petit élément d’une liste
            #• public int maxElement(int[] list) : retourne le plus grand élément d’une liste
            
